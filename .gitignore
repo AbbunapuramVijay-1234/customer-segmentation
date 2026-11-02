@@ -1,0 +1,16 @@
+# Virtual Environment (do not push this huge folder)
+venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code settings
+.vscode/
+
+# Operating System temporary files
+.DS_Store
+Thumbs.db
